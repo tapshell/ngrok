@@ -1,7 +1,7 @@
 package log
 
 import (
-	log "code.google.com/p/log4go"
+	log "github.com/tapshell/log4go"
 	"fmt"
 )
 
